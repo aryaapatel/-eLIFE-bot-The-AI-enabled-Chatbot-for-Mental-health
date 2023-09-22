@@ -1,0 +1,2 @@
+# -eLIFE-bot-The-AI-enabled-Chatbot-for-Mental-health
+We have designed eLIFE bot which is an innovative mental health chatbot that combine technology and customized features to provide individuals with personalized and efficient mental  health care. With unique capabilities such as gratitude logging, empathetic responses, sentiment  analysis, and a comprehensive database of qualified psychiatrists.
